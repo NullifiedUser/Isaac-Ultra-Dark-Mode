@@ -1,2 +1,2 @@
-# Isaac-Ultra-Dark-Mode
+# Isaac Ultra Dark Mode
 Changes all the main menu graphics to be more darker.
