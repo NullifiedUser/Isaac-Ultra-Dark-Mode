@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
     <name>z Isaac Ultra Dark Mode [Rep+]</name>
-    <directory>z Isaac Ultra Dark Mode [Rep+]</directory>
+    <directory>z isaac ultra dark mode [rep+]</directory>
     <id>0</id>
-    <description></description>
+    <description>
+	Changes all the main menu graphics to be more darker your eyes will thank you.
+	
+	[h1] Features [/h1]
+	[list]
+    [*]Makes all the menu graphics darker
+	[*]Intro movie has also been changed
+	[*]Stops you getting blind
+	[list]
+	
+	
+	[img]https://github.com/NullifiedUser/Isaac-Ultra-Dark-Mode/blob/main/Screenshots/Main%20Menu.png[/img]
+	
+	
+	[img]https://github.com/NullifiedUser/Isaac-Ultra-Dark-Mode/blob/main/Git Resources/Ko-Fi Dark.png[/img] [url=https://ko-fi.com/nullifieduser] [/url]
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</description>
     <version>1.0</version>
     <visibility>Public</visibility>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
 </metadata>
