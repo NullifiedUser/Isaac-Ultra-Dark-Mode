@@ -1,41 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-    <name>z Isaac Ultra Dark Mode [Rep+]</name>
-    <directory>z isaac ultra dark mode [rep+]</directory>
-    <id>0</id>
+    <name>! Isaac Ultra Dark Mode [Rep+]</name>
+    <directory>! isaac ultra dark mode [rep+]</directory>
+    <id>3439504020</id>
     <description>
-	Changes all the main menu graphics to be more darker your eyes will thank you.
 	
-	[h1] Features [/h1]
-	[list]
-    [*]Makes all the menu graphics darker
+Changes all the main menu graphics to be more darker your eyes will thank you.
+	
+[h1] Features [/h1]
+[list]
+	[*]Makes all the menu graphics darker
 	[*]Intro movie has also been changed
 	[*]Stops you getting blind
-	[list]
-	
-	
-	[img]https://github.com/NullifiedUser/Isaac-Ultra-Dark-Mode/blob/main/Screenshots/Main%20Menu.png[/img]
-	
-	
-	[img]https://github.com/NullifiedUser/Isaac-Ultra-Dark-Mode/blob/main/Git Resources/Ko-Fi Dark.png[/img] [url=https://ko-fi.com/nullifieduser] [/url]
-	
+[/list]
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+[h1] List Below of mods that need to be manually installed [/h1]
+Scroll down if you need help on how to.
+[table]
+[h2]
+    [tr]
+        [th]Manual Install[/th]
+        [th]Yes / No[/th]
+    [/tr]
+    [tr]
+        [td] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2769063897] [REP+] Unintrusive Pause Menu[/url][/td]
+        [td]Yes[/td]
+    [/tr]
+    [tr]
+        [td] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3386788715] Yet Another Portraits Mod[/url] [/td]
+        [td]Yes[/td]
+    [/tr]
+    [tr]
+        [td] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622566172] Visible Challenge Unlocks[/url] [/td]
+        [td]No[/td]
+    [/tr]
+    [tr]
+        [td] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1385718988] Wider Mods Menu[/url] [/td]
+        [td]No[/td]
+    [/tr]
+[/h2]
+[/table]
+
+The mods tagged no mean you just have to be subscribed on steam nothing else
+
+The mods tagged yes means you need to drag and drop a folder below is a step by step
+If you need help feel free to message.
+I will make a short video and add it here at somepoint.
+[list]
+	[*]Step 1. Go to 
+	C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth\mods\! isaac ultra dark mode
+	OR you can right click Binding of issac in steam &gt; Browse Local Files mods &gt; ! isaac ultra dark mode [rep+]
+	[*]Step 2. Patches and Fixes
+	[*]Step 3. Yet Another Portraits
+	[*]Step 4. Copy the resources file
+	[*]Step 5. Go back to my main folder the one with the metadata.xml
+	[*]Step 6. Paste the resources
+	[*]Step 7. If promted to replace do so.
+[/list]
+
+Feel Free to let me know if you find any conflicts 
+
+[img]https://i.imgur.com/elnq5FZ.png[/img] [url=https://github.com/NullifiedUser/Isaac-Ultra-Dark-Mode]Github[/url]
+[url=https://ko-fi.com/nullifieduser][img]https://i.imgur.com/4px6LQW.png[/img][/url]
+
 	</description>
-    <version>1.0</version>
+    <version>1.4</version>
     <visibility>Public</visibility>
     <tag id="Tweaks"/>
     <tag id="Graphics"/>
