@@ -1,5 +1,6 @@
 # Isaac Ultra Dark Mode
 Changes all the main menu graphics to be more darker.
+
 Steampage has more info currently https://steamcommunity.com/sharedfiles/filedetails/?id=3439504020
 ## Features
 * Makes all the menu graphics darker
