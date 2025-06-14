@@ -3,6 +3,5 @@ I claim no right for assests of these mods that are inclued in the patches
 biobak    for  [REP+] unintrusive pause menu
 S-Body    for  Wider mods menu
 Keertt21  for  Yet Another Portraits Mod
-damagaz   for  Visible Challenge Unlocks
-
+damagaz   for  Visible Challenge Unlocks & 100% Accurate Character Select
 
